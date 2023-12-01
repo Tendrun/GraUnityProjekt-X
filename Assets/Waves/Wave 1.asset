@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb584d9c123b1a48b9fdd461b96bfa8, type: 3}
+  m_Name: Wave 1
+  m_EditorClassIdentifier: 
+  WaveName: Polcie Gunners 1
+  enemy:
+  - EnemyGameObject: {fileID: 1973457474932791293, guid: 2f8aad9053562e049b27f39f70a088fe, type: 3}
+    EnemySpawner: 0
+    count: 20
+    TimeBeetwenSpawn: 0

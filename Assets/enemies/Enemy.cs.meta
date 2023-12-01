@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 267ee9f9cc7344c43a93d3f1d080333a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BloodGameObject: {fileID: 7385956870667590158, guid: 46d629bfbeef9dc42b3d75ce3f84a6b4, type: 3}
+  - loot: {instanceID: 0}
+  - target: {instanceID: 0}
+  - Damage_obj: {fileID: 6418433657623121590, guid: 021615fffd9f3c24092c85f1b1cd802e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

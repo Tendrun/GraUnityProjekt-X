@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5ce1a96d7ccfb294ea8985b5a1bbbfb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BloodGameObject: {instanceID: 0}
+  - loot: {instanceID: 0}
+  - target: {instanceID: 0}
+  - Damage_obj: {fileID: 6418433657623121590, guid: 021615fffd9f3c24092c85f1b1cd802e, type: 3}
+  - Aim_transform: {instanceID: 0}
+  - ShootSound: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - FirePoint: {instanceID: 0}
+  - EnemyFuturePosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
